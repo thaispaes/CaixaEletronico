@@ -1,4 +1,4 @@
-# :round_pushpin: Bem Vindo ao projeto final de Logica do START LATAM
+# :round_pushpin: Bem Vindo ao projeto final de Logica 
         
   :mortar_board: Nessa pasta está presente o codigo em java do projeto final do modulo de logica de programação do curso START LATAM by accenture
 ***
