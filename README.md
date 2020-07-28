@@ -8,3 +8,9 @@
 
 ## :balloon: Qual plataforma de desenvolvimento?
   Foi utilizado para programar a ide Netbeans, plataforma usada para desenvolvimento em Java e outras linguagens
+
+## 🛠 Skills
+
+neste projeto foi implementado a linguagem de **java**
+
+## 📄 License
